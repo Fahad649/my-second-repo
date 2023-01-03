@@ -2,3 +2,7 @@ p{
     background-color: yellow;
     padding: 10px;
 }
+ol li{
+color: red;
+border: 15px;
+}
